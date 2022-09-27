@@ -1,0 +1,20 @@
+
+.mainback{
+    min-height: 300%;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 95%;
+}
+
+.page{
+    text-align: left;
+    padding-left: 5%;
+}
+
+.line{
+    margin-left: 0;
+    border-bottom: 1px solid black;
+}
+
+
